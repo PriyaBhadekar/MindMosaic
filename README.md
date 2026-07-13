@@ -43,6 +43,7 @@ MindMosaic
 ```
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5bb70c49-b39b-4c85-988f-3f2cac418421" />
 
 ---
 
