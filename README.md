@@ -44,16 +44,5 @@ MindMosaic
 
 ---
 
-## 📸 Preview
-
-> *Screenshots coming soon.*
-
 ---
 
-<div align="center">
-
-### ⭐ If you like this project, consider giving it a star!
-
-Made with ❤️ by **Priya Bhadekar**
-
-</div>
